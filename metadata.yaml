@@ -1,11 +1,16 @@
 _repo: Women-wanted-The-story-written-in-blood-red-letters-on-the-horizon-of-the-Great-World-War_68257
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68257-h/images/cover.jpg
 creator:
   author:
     agent_name: Daggett, Mabel Potter
     gutenberg_agent_id: '54678'
     url: http://www.gutenberg.org/2009/agents/54678
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68257#Women-wanted-The-story-written-in-blood-red-letters-on-the-horizon-of-the-Great-World-War
 gutenberg_issued: '2022-06-07'
 identifiers:
   gutenberg: '68257'
